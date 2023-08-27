@@ -50,7 +50,7 @@ dùng `ASDZFHL.KWLJFYPOJWEPMP3OMXPfJCVJKLWEJL_2` để đổi `id` sang `admin` 
 
 ![image](https://github.com/caodchuong312/CTFs/assets/92881216/2cf9a362-aabb-48e9-9180-f9e0c3acf992)
 
-`jwt`` mới `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwibmFtZSI6ImNodW9uZyIsImlhdCI6MTY5MzExMDc1MH0.6j_x7GSLj5teXHzCJI0xjbmRNkutiAQBJZqgeChq8tg`
+`jwt` mới `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwibmFtZSI6ImNodW9uZyIsImlhdCI6MTY5MzExMDc1MH0.6j_x7GSLj5teXHzCJI0xjbmRNkutiAQBJZqgeChq8tg`
 
 ![image](https://github.com/caodchuong312/CTFs/assets/92881216/f3f0fb72-89e7-47c2-8d98-9c3871f8a119)
 
